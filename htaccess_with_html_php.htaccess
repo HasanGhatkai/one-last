@@ -1,0 +1,14 @@
+
+
+# Enable PHP parsing inside .html and .htm files
+AddHandler application/x-httpd-php .html .htm
+# If AddHandler doesn't work, try AddType instead:
+# AddType application/x-httpd-php .html .htm
+
+location ~ \.html$ {
+    fastcgi_pass  unix:/var/run/php/php7.4-fpm.sock;
+    include       fastcgi_params;
+    fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+}
+
+

@@ -1,0 +1,128 @@
+Directory listing of c:\xampp\htdocs\clients\Star cyber cafe 
+ 
+c:\xampp\htdocs\clients\Star cyber cafe\.htaccess
+c:\xampp\htdocs\clients\Star cyber cafe\about_us.php
+c:\xampp\htdocs\clients\Star cyber cafe\admin
+c:\xampp\htdocs\clients\Star cyber cafe\category_listing_section.php
+c:\xampp\htdocs\clients\Star cyber cafe\comming_soon.php
+c:\xampp\htdocs\clients\Star cyber cafe\config.php
+c:\xampp\htdocs\clients\Star cyber cafe\cursor-effect.html
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive
+c:\xampp\htdocs\clients\Star cyber cafe\directory_structure.txt
+c:\xampp\htdocs\clients\Star cyber cafe\fetch_jobs.php
+c:\xampp\htdocs\clients\Star cyber cafe\Footer.php
+c:\xampp\htdocs\clients\Star cyber cafe\full_derectory.bat
+c:\xampp\htdocs\clients\Star cyber cafe\Header.php
+c:\xampp\htdocs\clients\Star cyber cafe\hide_page_url.php
+c:\xampp\htdocs\clients\Star cyber cafe\image
+c:\xampp\htdocs\clients\Star cyber cafe\index.php
+c:\xampp\htdocs\clients\Star cyber cafe\job_details.php
+c:\xampp\htdocs\clients\Star cyber cafe\panding work.txt
+c:\xampp\htdocs\clients\Star cyber cafe\track_visitor.php
+c:\xampp\htdocs\clients\Star cyber cafe\upload_data
+c:\xampp\htdocs\clients\Star cyber cafe\vacancies_listing_page.php
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard
+c:\xampp\htdocs\clients\Star cyber cafe\admin\database
+c:\xampp\htdocs\clients\Star cyber cafe\admin\index.php
+c:\xampp\htdocs\clients\Star cyber cafe\admin\index_old.php
+c:\xampp\htdocs\clients\Star cyber cafe\admin\upload_data
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\about.php
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\add-job.php
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\admin_add_service.php
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\admin_dashboard_visitor.php
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\login.php
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\logout.php
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\track_visitor.php
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860ce8fc61b6.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860cea14b83c.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860ceb3501a6.png
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860cebccf4fb.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860cec41864a.png
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860cecb4233c.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860ced194259.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860cedee3915.png
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860cee5073a5.PNG
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860ceed88bad.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860cefcb82dc.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860cf0b98cdd.png
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860cf1201274.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860cf183dada.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860cf21ec340.JPG
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860cf285bdbc.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6860cf2ecc410.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6861840bc994d.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\68618424c5dfc.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d6cd59c36.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d6d4815c2.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d6db22f4a.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d6e21e5f5.png
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d6edaca8b.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d6f524674.png
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d6fd2ebbd.PNG
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d702d8005.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d70a69c69.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d712ded2f.png
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d71cabbc8.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d724761c2.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d72b0685b.JPG
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d731a805f.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d739685f7.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\dashboard\uploads\6873d7418a208.jpeg
+c:\xampp\htdocs\clients\Star cyber cafe\admin\database\config.php
+c:\xampp\htdocs\clients\Star cyber cafe\admin\upload_data\upload_data6861816a9c022.png
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\screenshots
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE-20250609T101307Z-1-001.zip
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\screenshots\comming_soon_page.png
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\screenshots\image_gallary_page.png
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\screenshots\image_gallary_page2.png
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\screenshots\job_listing_page.png
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\screenshots\main_landing_page.png
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\screenshots\search_all_details_page.png
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\5.5 x 8.5_001.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\CMSS SCHOLARSHIP.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\cropped_circle_image.png
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\Cyber Cafe Add.rar
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\DIGITAL GUJARAT.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\ELECTION CARD 1 of 1.png
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\ELECTION CARD_001.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\FOOD LICANCE, UDYAM ADHAR.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\KUVARBAI NU MAMERU FORM.png
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\MANAV KALYAN 2025.PNG
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\MYSY 2024.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\NSP SCHOLARSHIP 2024.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\PASSPORT _ LICANCE.png
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\PM VISHVAKARMA1.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\RATION CARD E KYC.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\RTE 2025.JPG
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\STAR CYBER CAFE BENNER
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\STAR CYBER CAFE BENNER.rar
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\STAR.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\V CARD 2024.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\VIDHYASARTHI SCHOLLERSHIP.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\WhatsApp Image 2023-12-02 at 10.16.30 AM.jpeg
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\STAR CYBER CAFE BENNER\Backup_of_BOARD.cdr
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\STAR CYBER CAFE BENNER\Backup_of_star banner.cdr
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\STAR CYBER CAFE BENNER\BOARD.cdr
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\STAR CYBER CAFE BENNER\nikhil
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\STAR CYBER CAFE BENNER\OUTDOOR BANNER.cdr
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\STAR CYBER CAFE BENNER\star banner.cdr
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\STAR CYBER CAFE BENNER\nikhil\OUTDOOR BANNER.cdr
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\STAR CYBER CAFE BENNER\nikhil\OUTDOOR BANNER.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\STAR CYBER CAFE BENNER\nikhil\star banner.cdr
+c:\xampp\htdocs\clients\Star cyber cafe\data_from_drive\WEBSITE\STAR CYBER CAFE BENNER\nikhil\star2.jpg
+c:\xampp\htdocs\clients\Star cyber cafe\image\cropped_circle_image.png
+c:\xampp\htdocs\clients\Star cyber cafe\image\star.gif
+c:\xampp\htdocs\clients\Star cyber cafe\image\star.json
+c:\xampp\htdocs\clients\Star cyber cafe\image\star.lottie
+c:\xampp\htdocs\clients\Star cyber cafe\image\_favicon.png
+c:\xampp\htdocs\clients\Star cyber cafe\upload_data\685801fe49ae8.png
+c:\xampp\htdocs\clients\Star cyber cafe\upload_data\6858035b87bc5.pdf
+c:\xampp\htdocs\clients\Star cyber cafe\upload_data\685803768fd27.pdf
+c:\xampp\htdocs\clients\Star cyber cafe\upload_data\685805ddd93a7.png
+c:\xampp\htdocs\clients\Star cyber cafe\upload_data\6858085768d5e.pdf
+c:\xampp\htdocs\clients\Star cyber cafe\upload_data\68581e8f63b14.pdf
+c:\xampp\htdocs\clients\Star cyber cafe\upload_data\6858275f97875.pdf
+c:\xampp\htdocs\clients\Star cyber cafe\upload_data\6873d5a335d02.pdf
+c:\xampp\htdocs\clients\Star cyber cafe\upload_data\upload_data6861801113dc9.jpg

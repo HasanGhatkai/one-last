@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Stylish Cursor Image Effect</title>
+  <style>
+    body {
+      cursor: none;
+      overflow-x: hidden;
+    }
+
+    *, a, button, input, select, textarea {
+      cursor: none !important;
+    }
+
+    .custom-cursor {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      overflow: hidden;
+      z-index: 9999;
+      pointer-events: none;
+      transform: translate(-50%, -50%);
+      box-shadow: 0 0 12px rgb(0, 38, 255);
+      animation: pulse 1.5s infinite;
+      transition: transform 0.1s ease-out;
+    }
+
+    .custom-cursor img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .trail-star {
+      position: fixed;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      overflow: hidden;
+      pointer-events: none;
+      animation: sparkle 0.7s ease-out forwards;
+      transform: translate(-50%, -50%);
+      filter: blur(1px);
+      box-shadow: 0 0 12px rgba(0, 38, 255);
+    }
+
+    .trail-star img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    @keyframes sparkle {
+      0% {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(1);
+        filter: blur(0px);
+      }
+      50% {
+        opacity: 0.7;
+        transform: translate(-50%, -60%) scale(1.3);
+        filter: blur(2px);
+      }
+      100% {
+        opacity: 0;
+        transform: translate(-50%, -70%) scale(0.6);
+        filter: blur(3px);
+      }
+    }
+
+    @keyframes pulse {
+      0%, 100% {
+        box-shadow: 0 0 12px rgba(0, 38, 255), 0 0 20px rgba(255, 215, 0, 0.2);
+      }
+      50% {
+        box-shadow: 0 0 12px rgba(0, 38, 255), 0 0 32px rgba(255, 215, 0, 0.4);
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Main Custom Cursor -->
+  <div id="customCursor" class="custom-cursor">
+    <img src="image/cropped_circle_image.png" alt="Cursor">
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const cursor = document.getElementById("customCursor");
+
+      document.addEventListener("mousemove", (e) => {
+        const x = e.clientX;
+        const y = e.clientY;
+
+        // Move cursor smoothly
+        cursor.style.left = x + "px";
+        cursor.style.top = y + "px";
+
+        // Create trail
+        // const trail = document.createElement("div");
+        // trail.classList.add("trail-star");
+        // trail.style.left = x + "px";
+        // trail.style.top = y + "px";
+        // trail.innerHTML = '<img src="image/cropped_circle_image.png" alt="Trail">';
+        // document.body.appendChild(trail);
+
+        // Remove trail after animation
+        setTimeout(() => {
+          trail.remove();
+        }, 700);
+      });
+    });
+  </script>
+</body>
+</html>
